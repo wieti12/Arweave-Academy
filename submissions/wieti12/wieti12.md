@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: wieti2710@gmail.com
+- github account: https://github.com/wieti12
 - Email: wieti2710@gmail.com
 - Arweave Address: rJIMQcrA6AqpVNlw10z06bfPrh87e6qBFuuDARWeDeM 
 - ETH Address: 0xe8769Db6aCe0aa14Cef3E0B6B9BDC18Bb279b054
